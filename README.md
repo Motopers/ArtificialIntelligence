@@ -2,5 +2,10 @@
 
 Задача обоих: Определить две стороны полотна, раскрасить синем цветом левую сторону, а правую зеленым
 
-Ссылка чтобы опробовать https://gandromes.github.io/ArtificialIntelligence/#ru
+Ссылка чтобы опробовать -> https://gandromes.github.io/ArtificialIntelligence/#ru
 > Листаете ниже нажимаете кнопки "Старт (для того чтобы начать)" далее "Учить (столько раз сколько вам хочется проэволюцианировать код)" и если хотите начать с начала "Снова"
+
+Нейрон:
+![image](https://github.com/user-attachments/assets/7a1927a3-8105-4ae5-bb3a-066deb66ae0d)
+Перцептрон:
+![image](https://github.com/user-attachments/assets/8f54aab0-4d88-4621-bf57-e84cc3b7b882)
